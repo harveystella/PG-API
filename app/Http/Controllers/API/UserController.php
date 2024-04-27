@@ -145,6 +145,29 @@ class UserController extends Controller
 
         $order = TigerHistory::where('token', $token)->latest()->first();
 
+        if(!$order) {
+            return response()->json([
+                'error_code' => 0,
+                'data' => [
+                    'player_info' => [
+                        'id' => $player->id,
+                        'balance' => $player->balance,
+                        'account' => $player->account,
+                        'nickname' => $player->nickname,
+                        'type' => $player->type,
+                        'mute' => $player->mute
+                    ],
+                    'game_info' => [
+
+                    ],
+                    'list' => '',
+                ],
+                'req' => [
+                    'token' => $token
+                ]
+            ]);
+        }
+
         $lastGame = TigerRoundList::where('order_id', $order->order_id)->first();
 
         $betOption = TigerBetList::where('bet_size', $lastGame->bet_size)
