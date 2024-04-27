@@ -1,0 +1,237 @@
+{
+    "error_code": 0,
+    "data": {
+        "list": [
+            {
+                "create_time": "2024/04/12 20:42",
+                "order_id": "9-1712925731-VNEYHK3JY",
+                "round_id": "4381720812",
+                "bet_s": "",
+                "prize_s": "",
+                "free_mode_type": 0,
+                "player_win_lose_s": "",
+                "balance_s": "",
+                "balance_before_score_s": "",
+                "create_timestamp": 1712925731163,
+                "bet": 50000,
+                "prize": 500000,
+                "player_win_lose": 450000,
+                "balance": 95480000,
+                "balance_before_score": 95030000,
+                "free": false,
+                "free_total_times": 0,
+                "free_remain_times": 0,
+                "free_game_total_win": 450000,
+                "bet_size": 1000,
+                "basic_bet": 5,
+                "bet_multiple": 10,
+                "round_list_count": 3,
+                "round_list": [
+                    {
+                        "bet_s": "5.00",
+                        "prize_s": "0.00",
+                        "player_win_lose_s": "-5.00",
+                        "balance_s": "9498.00",
+                        "bet_size_s": "0.10",
+                        "round": 1,
+                        "order_id": "9-1712925731-VNEYHK3JY",
+                        "round_id": "4381720812",
+                        "bet": 50000,
+                        "prize": 0,
+                        "player_win_lose": -50000,
+                        "balance": 94980000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 0,
+                        "prize_list_count": 1,
+                        "prize_list": [
+                            {
+                                "win_pos_list": null,
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 3,
+                                "rate": 0,
+                                "win_item_list": [
+                                    3,
+                                    3,
+                                    3
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "如意",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            3,
+                            4,
+                            7,
+                            3,
+                            1,
+                            4,
+                            3,
+                            3,
+                            2
+                        ]
+                    },
+                    {
+                        "bet_s": "0.00",
+                        "prize_s": "0.00",
+                        "player_win_lose_s": "0.00",
+                        "balance_s": "9498.00",
+                        "bet_size_s": "0.10",
+                        "round": 2,
+                        "order_id": "9-1712925731-VNEYHK3JY",
+                        "round_id": "1319637265",
+                        "bet": 0,
+                        "prize": 0,
+                        "player_win_lose": 0,
+                        "balance": 94980000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 0,
+                        "prize_list_count": 2,
+                        "prize_list": [
+                            {
+                                "win_pos_list": null,
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 3,
+                                "rate": 0,
+                                "win_item_list": [
+                                    3,
+                                    3,
+                                    3
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "如意",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            },
+                            {
+                                "win_pos_list": null,
+                                "index": 5,
+                                "level": 3,
+                                "item_type": 3,
+                                "rate": 0,
+                                "win_item_list": [
+                                    3,
+                                    1,
+                                    3
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "如意",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            3,
+                            0,
+                            3,
+                            3,
+                            1,
+                            0,
+                            3,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "bet_s": "0.00",
+                        "prize_s": "50.00",
+                        "player_win_lose_s": "50.00",
+                        "balance_s": "9548.00",
+                        "bet_size_s": "0.10",
+                        "round": 3,
+                        "order_id": "9-1712925731-VNEYHK3JY",
+                        "round_id": "7125289261",
+                        "bet": 0,
+                        "prize": 500000,
+                        "player_win_lose": 500000,
+                        "balance": 95480000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 1,
+                        "prize_list_count": 2,
+                        "prize_list": [
+                            {
+                                "win_pos_list": [
+                                    0,
+                                    3,
+                                    6
+                                ],
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 3,
+                                "rate": 25,
+                                "win_item_list": [
+                                    3,
+                                    3,
+                                    3
+                                ],
+                                "multi_time": 0,
+                                "win": 250000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "如意",
+                                "rate_s": "图标倍数25",
+                                "multi_time_s": "",
+                                "win_s": "25.00"
+                            },
+                            {
+                                "win_pos_list": [
+                                    2,
+                                    4,
+                                    6
+                                ],
+                                "index": 5,
+                                "level": 3,
+                                "item_type": 3,
+                                "rate": 25,
+                                "win_item_list": [
+                                    3,
+                                    1,
+                                    3
+                                ],
+                                "multi_time": 0,
+                                "win": 250000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "如意",
+                                "rate_s": "图标倍数25",
+                                "multi_time_s": "",
+                                "win_s": "25.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            3,
+                            0,
+                            3,
+                            3,
+                            1,
+                            0,
+                            3,
+                            3,
+                            0
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "req": {
+        "token": "21424F6012264ACD9D91E1373B6F1B6B",
+        "order_id": "9-1712925731-VNEYHK3JY"
+    }
+}

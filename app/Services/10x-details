@@ -1,0 +1,325 @@
+{
+    "error_code": 0,
+    "data": {
+        "list": [
+            {
+                "create_time": "2024/04/12 23:19",
+                "order_id": "9-1712935148-39ZRSJND3",
+                "round_id": "9258459064",
+                "bet_s": "",
+                "prize_s": "",
+                "free_mode_type": 0,
+                "player_win_lose_s": "",
+                "balance_s": "",
+                "balance_before_score_s": "",
+                "create_timestamp": 1712935148285,
+                "bet": 50000,
+                "prize": 1500000,
+                "player_win_lose": 1450000,
+                "balance": 95440000,
+                "balance_before_score": 93990000,
+                "free": false,
+                "free_total_times": 0,
+                "free_remain_times": 0,
+                "free_game_total_win": 1450000,
+                "bet_size": 1000,
+                "basic_bet": 5,
+                "bet_multiple": 10,
+                "round_list_count": 3,
+                "round_list": [
+                    {
+                        "bet_s": "5.00",
+                        "prize_s": "0.00",
+                        "player_win_lose_s": "-5.00",
+                        "balance_s": "9394.00",
+                        "bet_size_s": "0.10",
+                        "round": 1,
+                        "order_id": "9-1712935148-39ZRSJND3",
+                        "round_id": "9258459064",
+                        "bet": 50000,
+                        "prize": 0,
+                        "player_win_lose": -50000,
+                        "balance": 93940000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 0,
+                        "prize_list_count": 1,
+                        "prize_list": [
+                            {
+                                "win_pos_list": null,
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 0,
+                                "win_item_list": [
+                                    1,
+                                    7,
+                                    1
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            1,
+                            6,
+                            5,
+                            7,
+                            6,
+                            6,
+                            1,
+                            2,
+                            2
+                        ]
+                    },
+                    {
+                        "bet_s": "0.00",
+                        "prize_s": "0.00",
+                        "player_win_lose_s": "0.00",
+                        "balance_s": "9394.00",
+                        "bet_size_s": "0.10",
+                        "round": 2,
+                        "order_id": "9-1712935148-39ZRSJND3",
+                        "round_id": "8358721685",
+                        "bet": 0,
+                        "prize": 0,
+                        "player_win_lose": 0,
+                        "balance": 93940000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 0,
+                        "prize_list_count": 3,
+                        "prize_list": [
+                            {
+                                "win_pos_list": null,
+                                "index": 1,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 0,
+                                "win_item_list": [
+                                    7,
+                                    1,
+                                    7
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            },
+                            {
+                                "win_pos_list": null,
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 0,
+                                "win_item_list": [
+                                    1,
+                                    7,
+                                    1
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            },
+                            {
+                                "win_pos_list": null,
+                                "index": 5,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 0,
+                                "win_item_list": [
+                                    7,
+                                    1,
+                                    1
+                                ],
+                                "multi_time": 0,
+                                "win": 0,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "",
+                                "multi_time_s": "",
+                                "win_s": "0.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            1,
+                            7,
+                            7,
+                            7,
+                            1,
+                            7,
+                            1,
+                            7,
+                            0
+                        ]
+                    },
+                    {
+                        "bet_s": "0.00",
+                        "prize_s": "150.00",
+                        "player_win_lose_s": "150.00",
+                        "balance_s": "9544.00",
+                        "bet_size_s": "0.10",
+                        "round": 3,
+                        "order_id": "9-1712935148-39ZRSJND3",
+                        "round_id": "5419500467",
+                        "bet": 0,
+                        "prize": 1500000,
+                        "player_win_lose": 1500000,
+                        "balance": 95440000,
+                        "bet_size": 1000,
+                        "bet_multiple": 10,
+                        "basic_bet": 5,
+                        "multi_time": 10,
+                        "prize_list_count": 5,
+                        "prize_list": [
+                            {
+                                "win_pos_list": [
+                                    1,
+                                    4,
+                                    7
+                                ],
+                                "index": 1,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 3,
+                                "win_item_list": [
+                                    7,
+                                    1,
+                                    7
+                                ],
+                                "multi_time": 10,
+                                "win": 30000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "图标倍数3",
+                                "multi_time_s": "",
+                                "win_s": "3.00"
+                            },
+                            {
+                                "win_pos_list": [
+                                    0,
+                                    3,
+                                    6
+                                ],
+                                "index": 2,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 3,
+                                "win_item_list": [
+                                    1,
+                                    7,
+                                    1
+                                ],
+                                "multi_time": 10,
+                                "win": 30000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "图标倍数3",
+                                "multi_time_s": "",
+                                "win_s": "3.00"
+                            },
+                            {
+                                "win_pos_list": [
+                                    2,
+                                    5,
+                                    8
+                                ],
+                                "index": 3,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 3,
+                                "win_item_list": [
+                                    7,
+                                    7,
+                                    7
+                                ],
+                                "multi_time": 10,
+                                "win": 30000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "图标倍数3",
+                                "multi_time_s": "",
+                                "win_s": "3.00"
+                            },
+                            {
+                                "win_pos_list": [
+                                    0,
+                                    4,
+                                    8
+                                ],
+                                "index": 4,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 3,
+                                "win_item_list": [
+                                    1,
+                                    1,
+                                    7
+                                ],
+                                "multi_time": 10,
+                                "win": 30000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "图标倍数3",
+                                "multi_time_s": "",
+                                "win_s": "3.00"
+                            },
+                            {
+                                "win_pos_list": [
+                                    2,
+                                    4,
+                                    6
+                                ],
+                                "index": 5,
+                                "level": 3,
+                                "item_type": 7,
+                                "rate": 3,
+                                "win_item_list": [
+                                    7,
+                                    1,
+                                    1
+                                ],
+                                "multi_time": 10,
+                                "win": 30000,
+                                "level_s": "3星连珠",
+                                "item_type_s": "橙子",
+                                "rate_s": "图标倍数3",
+                                "multi_time_s": "",
+                                "win_s": "3.00"
+                            }
+                        ],
+                        "item_type_list": [
+                            1,
+                            7,
+                            7,
+                            7,
+                            1,
+                            7,
+                            1,
+                            7,
+                            7
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "req": {
+        "token": "21424F6012264ACD9D91E1373B6F1B6B",
+        "order_id": "9-1712935148-39ZRSJND3"
+    }
+}
