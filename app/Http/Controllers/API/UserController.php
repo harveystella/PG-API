@@ -158,9 +158,23 @@ class UserController extends Controller
                         'mute' => $player->mute
                     ],
                     'game_info' => [
-
+                        'id' => 109,
+                        'last_time_bet' => 5000,
+                        'last_time_bet_id' => 1,
+                        'last_time_bet_size' => 1000,
+                        'last_time_basic_bet' => 5,
+                        'last_time_bet_multiple' => 1,
+                        'free_total_times' => 0,
+                        'free_remain_times' => 0,
+                        'free_game_total_win' => 0,
+                        'total_bet' => 1466695000,
+                        'total_bet_times' => 1174,
+                        'total_free_times' => 0,
+                        'free_mode_type' => 0,
+                        'last_win' => 0,
+                        'last_multi' => 1,
                     ],
-                    'list' => '',
+                    'list' => [7, 1, 7, 7, 7, 7, 4, 5, 7]
                 ],
                 'req' => [
                     'token' => $token
